@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/CSS-5A5A5A?logo=css3&logoColor=01A3D8" />
 </div>
 
-## [Mira el Proyecto Aqui](https://jenolo16.github.io/En-crip-tex-one/)
-
 ##Descripción
 
 Encriptador de texto desarrollado con JavaScript, HTML y CSS para el challenge del **_Proyecto ONE_** de **Oracle+Alura LATAM**.
@@ -45,4 +43,4 @@ gaitober" => "gato"
 ---
 
 ### Autor:
-- Jhon noguera lozano <br>
+- Santiago Cuaspud <br>
